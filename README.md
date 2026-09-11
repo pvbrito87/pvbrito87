@@ -4,11 +4,11 @@ Engenheiro de Dados, apaixonado por transformar dados em insights estratégicos 
 
 ---
 
-🎓 Engenheiro de Produção
-📚 Pós-graduando em Engenharia de Dados e I.A.
-🟢 Green Belt Six Sigma
-👨‍💻 SR Consultant na TIM Brasil
-💻 Atuo com Python, R e SQL
+🎓 Engenheiro de Produção  
+📚 Pós-graduando em Engenharia de Dados e I.A.  
+🟢 Green Belt Six Sigma  
+👨‍💻 SR Consultant na TIM Brasil  
+💻 Atuo com Python, R e SQL  
 📊 Conhecimento em ferramentas de visualização e automação de dados (Power BI, Power Automate, Excel)
 
 ---
